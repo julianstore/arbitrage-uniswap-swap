@@ -1,4 +1,4 @@
-# Uniswap Arbitrage Flash Swap Contract
+# Contract for Uniswap Arbitrage Swap
 
 You want to play with "millions" on the blockchain then try https://uniswap.org/docs/v2/smart-contract-integration/using-flash-swaps/. This contract is able to arbitrage between DEX on the blockchain without providing any own capital.
 Basically is usable on the **Binance Smart Chain** and provides callbacks for common DEX, feel free to extend.
